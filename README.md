@@ -1,5 +1,12 @@
+---
+
 ![Header image](https://github.com/IvannaBalanyuk/IvannaBalanyuk/blob/main/assets/github-header.png)
+
+---
+
 I'm a fullstack web-developer who loves to learn about new things. Connect with me on Telegram.
+
+---
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
@@ -15,6 +22,10 @@ I'm a fullstack web-developer who loves to learn about new things. Connect with 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-## Contacts:
+---
+
+## ⚡ Contacts:
 - 📧 Email: [ivannabalanyuk@yandex.ru](mailto:mail@ivannabalanyuk@yandex.ru)
 - 🌐 Telegram: [@IvannaBalu](https://t.me/IvannaBalu)
+
+---
